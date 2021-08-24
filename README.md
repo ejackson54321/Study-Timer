@@ -1,4 +1,4 @@
-# study_timer
+# Study Timer
 
 Hello!
 
